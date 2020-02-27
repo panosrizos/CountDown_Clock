@@ -1,0 +1,9 @@
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\bin\Debug\Clock_CountDown.exe.config
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\bin\Debug\Clock_CountDown.exe
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\bin\Debug\Clock_CountDown.pdb
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\obj\Debug\Clock_CountDown.csprojAssemblyReference.cache
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\obj\Debug\Clock_CountDown.Form1.resources
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\obj\Debug\Clock_CountDown.Properties.Resources.resources
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\obj\Debug\Clock_CountDown.csproj.GenerateResource.cache
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\obj\Debug\Clock_CountDown.exe
+C:\Users\panos\source\repos\Clock_CountDown\Clock_CountDown\obj\Debug\Clock_CountDown.pdb
